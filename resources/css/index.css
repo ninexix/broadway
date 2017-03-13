@@ -1,0 +1,8 @@
+html {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+.imagebg {
+  background-image: url("../images/the-flatiron-building.png");
+}
